@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Nguyen Quang Truong
+#Written by Quang Truong
 
 exec 2> /tmp/setup.log
 
